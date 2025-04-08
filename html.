@@ -3,24 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> infomacaoes sobe cavalos</title>  
-    <link el=
+    <title> informações sobre cavalos</title>  
     <link rel="stylesheet" href="css">
+    <link rel="stylesheet" href="reset.css">
 </head>
 <body>
     <header>
         <h1>Bem-vindo ao Meu Site!</h1>
+          <h1><img src=""></h1> 
     </header>
     <nav>
         <ul>
-            <li><a href="#home">Início</a></li>
-            <li><a href="#sobre">Sobre</a></li>
-            <li><a href="#contato">Contato</a></li>
+            <li><a href="#home">cavalos</a></li>
+            <li><a href="#informacoes">caraterísticas</a></li>
+            <li><a href="#informacoes">Curiosidades</a></li>
+           <li><a heref="#informacoes"> raças raras</a></li>
         </ul>
     </nav>
     <main>
         <section id="home">
-            <h2>Início</h2>
+            <h2>cavalos</h2>
             <p>Este é um site de exemplo.</p>
         </section>
         <section id="sobre">
