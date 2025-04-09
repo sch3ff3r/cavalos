@@ -23,19 +23,23 @@
     <main>
         <section id="home">
             <h2>cavalos</h2>
-            <p>Este é um site de exemplo.</p>
+            <p>.</p>
         </section>
-        <section id="sobre">
-            <h2>Sobre</h2>
+        <section id="informacoes">
+            <h2>características</h2>
             <p>Informações sobre o site.</p>
         </section>
-        <section id="contato">
-            <h2>Contato</h2>
-            <p>Formas de entrar em contato.</p>
+        <section id="informacoes">
+            <h2>Curiosidades</h2>
+            <p>.</p>
+          </section>
+         <section id="informacoes">
+           <h2>raças raras</h2>
+         <p> . </p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Meu Site</p>
+        <p>&copy; 2025 site sobre cavalos</p>
     </footer>
 </body>
 </html>
